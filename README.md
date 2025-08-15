@@ -78,8 +78,7 @@ npm run start:dev
 **Fabio**  
 📚 Aprendendo com a DIO e compartilhando conhecimento com o mundo.
 
-🌐 [LinkedIn][(https://www.linkedin.com/in/fabio-de-souza-lima)
-💻 [GitHub](https://github.com/fabio-de-souza-lima)
+
 
 ---
 
